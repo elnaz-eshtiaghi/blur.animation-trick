@@ -1,4 +1,4 @@
-# Blur.animation(trick)
+# Blur.animation-trick
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2023_10_31-2](https://github.com/elnaz-eshtiaghi/trick.14-animation-/assets/146030206/e1b4b544-5aea-45ea-9ca8-8bd2f209374f)
